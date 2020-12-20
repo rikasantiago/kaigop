@@ -1,0 +1,2 @@
+alert('MANGAN TAYON, KAIGOP!');
+
